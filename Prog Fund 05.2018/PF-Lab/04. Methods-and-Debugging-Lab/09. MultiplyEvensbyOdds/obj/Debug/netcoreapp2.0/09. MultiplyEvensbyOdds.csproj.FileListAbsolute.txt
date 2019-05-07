@@ -1,0 +1,10 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\bin\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\bin\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\bin\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\bin\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\bin\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\obj\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\obj\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\obj\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\obj\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\09. MultiplyEvensbyOdds\obj\Debug\netcoreapp2.0\09. MultiplyEvensbyOdds.pdb

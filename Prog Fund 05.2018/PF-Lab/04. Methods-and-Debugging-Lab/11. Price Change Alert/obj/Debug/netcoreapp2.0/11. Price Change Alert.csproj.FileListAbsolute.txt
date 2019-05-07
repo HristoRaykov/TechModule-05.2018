@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.pdb

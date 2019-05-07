@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.pdb

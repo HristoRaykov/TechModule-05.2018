@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\bin\Debug\netcoreapp2.0\01. Centuries to Minutes.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\bin\Debug\netcoreapp2.0\01. Centuries to Minutes.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\bin\Debug\netcoreapp2.0\01. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\bin\Debug\netcoreapp2.0\01. Centuries to Minutes.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\bin\Debug\netcoreapp2.0\01. Centuries to Minutes.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\obj\Debug\netcoreapp2.0\01. Centuries to Minutes.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\obj\Debug\netcoreapp2.0\01. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\obj\Debug\netcoreapp2.0\01. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\obj\Debug\netcoreapp2.0\01. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\obj\Debug\netcoreapp2.0\01. Centuries to Minutes.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\01. Centuries to Minutes\obj\Debug\netcoreapp2.0\01. Centuries to Minutes.pdb

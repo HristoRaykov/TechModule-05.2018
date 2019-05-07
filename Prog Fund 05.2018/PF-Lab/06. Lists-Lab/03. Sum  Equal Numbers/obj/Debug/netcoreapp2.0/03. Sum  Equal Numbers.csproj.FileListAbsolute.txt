@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\bin\Debug\netcoreapp2.0\03. Sum  Equal Numbers.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\bin\Debug\netcoreapp2.0\03. Sum  Equal Numbers.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\bin\Debug\netcoreapp2.0\03. Sum  Equal Numbers.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\bin\Debug\netcoreapp2.0\03. Sum  Equal Numbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\bin\Debug\netcoreapp2.0\03. Sum  Equal Numbers.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\obj\Debug\netcoreapp2.0\03. Sum  Equal Numbers.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\obj\Debug\netcoreapp2.0\03. Sum  Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\obj\Debug\netcoreapp2.0\03. Sum  Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\obj\Debug\netcoreapp2.0\03. Sum  Equal Numbers.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\obj\Debug\netcoreapp2.0\03. Sum  Equal Numbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\03. Sum  Equal Numbers\obj\Debug\netcoreapp2.0\03. Sum  Equal Numbers.pdb

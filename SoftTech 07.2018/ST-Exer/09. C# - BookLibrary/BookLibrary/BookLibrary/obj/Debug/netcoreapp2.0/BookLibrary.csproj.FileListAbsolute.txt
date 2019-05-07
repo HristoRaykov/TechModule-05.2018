@@ -1,0 +1,8 @@
+C:\Git\C---BookLibrary\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.deps.json
+C:\Git\C---BookLibrary\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.json
+C:\Git\C---BookLibrary\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.dev.json
+C:\Git\C---BookLibrary\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.dll
+C:\Git\C---BookLibrary\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csprojAssemblyReference.cache
+C:\Git\C---BookLibrary\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Git\C---BookLibrary\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Git\C---BookLibrary\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfo.cs

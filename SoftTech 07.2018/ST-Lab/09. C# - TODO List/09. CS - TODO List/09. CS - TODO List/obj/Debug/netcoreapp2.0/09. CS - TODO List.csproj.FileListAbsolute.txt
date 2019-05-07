@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\bin\Debug\netcoreapp2.0\09. CS - TODO List.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\bin\Debug\netcoreapp2.0\09. CS - TODO List.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\bin\Debug\netcoreapp2.0\09. CS - TODO List.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\bin\Debug\netcoreapp2.0\09. CS - TODO List.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\bin\Debug\netcoreapp2.0\09. CS - TODO List.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\obj\Debug\netcoreapp2.0\09. CS - TODO List.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\obj\Debug\netcoreapp2.0\09. CS - TODO List.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\obj\Debug\netcoreapp2.0\09. CS - TODO List.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\obj\Debug\netcoreapp2.0\09. CS - TODO List.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\obj\Debug\netcoreapp2.0\09. CS - TODO List.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Tech Module 05.2018\SoftTech 07.2018\ST-Lab\09. C# - TODO List\09. CS - TODO List\09. CS - TODO List\obj\Debug\netcoreapp2.0\09. CS - TODO List.pdb

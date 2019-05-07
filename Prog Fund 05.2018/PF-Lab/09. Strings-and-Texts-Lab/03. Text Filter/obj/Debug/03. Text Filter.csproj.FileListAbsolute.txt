@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\03. Text Filter\obj\Debug\03. Text Filter.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\03. Text Filter\obj\Debug\03. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\03. Text Filter\obj\Debug\_03.Text_Filter.pdb

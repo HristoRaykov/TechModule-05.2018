@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\bin\Debug\netcoreapp2.0\08.GreaterofTwoVal.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\bin\Debug\netcoreapp2.0\08.GreaterofTwoVal.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\bin\Debug\netcoreapp2.0\08.GreaterofTwoVal.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\bin\Debug\netcoreapp2.0\08.GreaterofTwoVal.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\bin\Debug\netcoreapp2.0\08.GreaterofTwoVal.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\obj\Debug\netcoreapp2.0\08.GreaterofTwoVal.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\obj\Debug\netcoreapp2.0\08.GreaterofTwoVal.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\obj\Debug\netcoreapp2.0\08.GreaterofTwoVal.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\obj\Debug\netcoreapp2.0\08.GreaterofTwoVal.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\obj\Debug\netcoreapp2.0\08.GreaterofTwoVal.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\08.GreaterofTwoVal\obj\Debug\netcoreapp2.0\08.GreaterofTwoVal.pdb

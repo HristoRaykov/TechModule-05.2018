@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLetters.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLetters.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLetters.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLetters.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLetters.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLetters.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLetters.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLetters.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLetters.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\06.TriplesOfLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLetters.pdb

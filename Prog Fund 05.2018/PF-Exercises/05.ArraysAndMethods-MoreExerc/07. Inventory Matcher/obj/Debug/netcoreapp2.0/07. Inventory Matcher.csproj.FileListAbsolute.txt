@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\bin\Debug\netcoreapp2.0\07. Inventory Matcher.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\bin\Debug\netcoreapp2.0\07. Inventory Matcher.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\bin\Debug\netcoreapp2.0\07. Inventory Matcher.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\bin\Debug\netcoreapp2.0\07. Inventory Matcher.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\bin\Debug\netcoreapp2.0\07. Inventory Matcher.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\obj\Debug\netcoreapp2.0\07. Inventory Matcher.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\obj\Debug\netcoreapp2.0\07. Inventory Matcher.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\obj\Debug\netcoreapp2.0\07. Inventory Matcher.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\obj\Debug\netcoreapp2.0\07. Inventory Matcher.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\obj\Debug\netcoreapp2.0\07. Inventory Matcher.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\07. Inventory Matcher\obj\Debug\netcoreapp2.0\07. Inventory Matcher.pdb

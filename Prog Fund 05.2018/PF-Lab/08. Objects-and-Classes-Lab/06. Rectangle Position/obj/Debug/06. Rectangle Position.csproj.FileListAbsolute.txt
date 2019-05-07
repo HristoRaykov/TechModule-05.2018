@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe.config
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\06. Rectangle Position\obj\Debug\06. Rectangle Position.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\06. Rectangle Position\obj\Debug\06. Rectangle Position.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.pdb

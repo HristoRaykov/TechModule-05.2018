@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.pdb

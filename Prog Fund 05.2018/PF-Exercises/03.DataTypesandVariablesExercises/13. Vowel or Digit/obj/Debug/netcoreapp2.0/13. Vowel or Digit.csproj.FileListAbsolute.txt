@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.pdb

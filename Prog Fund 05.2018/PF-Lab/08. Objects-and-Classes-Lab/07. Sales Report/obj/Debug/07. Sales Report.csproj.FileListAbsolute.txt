@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\07. Sales Report\obj\Debug\07. Sales Report.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\07. Sales Report\obj\Debug\07. Sales Report.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\08. Objects-and-Classes-Lab\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

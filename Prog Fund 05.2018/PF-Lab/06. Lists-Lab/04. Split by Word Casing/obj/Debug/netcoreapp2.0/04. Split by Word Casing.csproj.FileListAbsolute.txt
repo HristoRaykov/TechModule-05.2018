@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\bin\Debug\netcoreapp2.0\04. Split by Word Casing.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\bin\Debug\netcoreapp2.0\04. Split by Word Casing.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\bin\Debug\netcoreapp2.0\04. Split by Word Casing.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\bin\Debug\netcoreapp2.0\04. Split by Word Casing.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\bin\Debug\netcoreapp2.0\04. Split by Word Casing.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\obj\Debug\netcoreapp2.0\04. Split by Word Casing.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\obj\Debug\netcoreapp2.0\04. Split by Word Casing.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\obj\Debug\netcoreapp2.0\04. Split by Word Casing.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\obj\Debug\netcoreapp2.0\04. Split by Word Casing.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\obj\Debug\netcoreapp2.0\04. Split by Word Casing.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\04. Split by Word Casing\obj\Debug\netcoreapp2.0\04. Split by Word Casing.pdb

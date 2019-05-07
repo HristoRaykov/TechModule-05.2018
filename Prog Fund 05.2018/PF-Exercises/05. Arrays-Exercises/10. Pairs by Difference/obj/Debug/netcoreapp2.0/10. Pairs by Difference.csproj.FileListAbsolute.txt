@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.pdb

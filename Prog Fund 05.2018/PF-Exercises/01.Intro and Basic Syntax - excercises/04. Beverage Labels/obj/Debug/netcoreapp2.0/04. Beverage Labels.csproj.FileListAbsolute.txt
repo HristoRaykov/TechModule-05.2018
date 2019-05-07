@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.deps.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\Intro and Basic Syntax\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.pdb

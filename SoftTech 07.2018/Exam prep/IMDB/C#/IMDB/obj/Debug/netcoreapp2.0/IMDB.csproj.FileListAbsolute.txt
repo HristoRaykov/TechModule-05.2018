@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules\TechMod 05.2018\SoftTech 07.2018\Exam prep\IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.pdb

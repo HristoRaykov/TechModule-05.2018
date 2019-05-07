@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csprojAssemblyReference.cache

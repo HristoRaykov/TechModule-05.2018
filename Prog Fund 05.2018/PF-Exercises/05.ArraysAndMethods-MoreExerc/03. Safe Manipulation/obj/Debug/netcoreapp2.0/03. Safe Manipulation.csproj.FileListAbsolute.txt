@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\bin\Debug\netcoreapp2.0\03. Safe Manipulation.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\bin\Debug\netcoreapp2.0\03. Safe Manipulation.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\bin\Debug\netcoreapp2.0\03. Safe Manipulation.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\bin\Debug\netcoreapp2.0\03. Safe Manipulation.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\bin\Debug\netcoreapp2.0\03. Safe Manipulation.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\obj\Debug\netcoreapp2.0\03. Safe Manipulation.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\obj\Debug\netcoreapp2.0\03. Safe Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\obj\Debug\netcoreapp2.0\03. Safe Manipulation.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\obj\Debug\netcoreapp2.0\03. Safe Manipulation.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\obj\Debug\netcoreapp2.0\03. Safe Manipulation.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\03. Safe Manipulation\obj\Debug\netcoreapp2.0\03. Safe Manipulation.pdb

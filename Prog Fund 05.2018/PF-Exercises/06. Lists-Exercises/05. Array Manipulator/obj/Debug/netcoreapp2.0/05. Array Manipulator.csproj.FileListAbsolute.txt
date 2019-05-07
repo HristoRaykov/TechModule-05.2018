@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.pdb

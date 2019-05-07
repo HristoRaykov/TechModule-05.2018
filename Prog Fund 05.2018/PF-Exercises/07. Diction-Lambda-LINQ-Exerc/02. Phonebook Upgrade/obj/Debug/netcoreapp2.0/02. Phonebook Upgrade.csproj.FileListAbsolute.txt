@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.pdb

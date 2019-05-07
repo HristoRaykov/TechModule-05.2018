@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\bin\Debug\netcoreapp2.0\18. SeqOfCom.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\bin\Debug\netcoreapp2.0\18. SeqOfCom.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\bin\Debug\netcoreapp2.0\18. SeqOfCom.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\bin\Debug\netcoreapp2.0\18. SeqOfCom.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\bin\Debug\netcoreapp2.0\18. SeqOfCom.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\obj\Debug\netcoreapp2.0\18. SeqOfCom.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\obj\Debug\netcoreapp2.0\18. SeqOfCom.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\obj\Debug\netcoreapp2.0\18. SeqOfCom.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\obj\Debug\netcoreapp2.0\18. SeqOfCom.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\obj\Debug\netcoreapp2.0\18. SeqOfCom.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\18. SeqOfCom\obj\Debug\netcoreapp2.0\18. SeqOfCom.pdb

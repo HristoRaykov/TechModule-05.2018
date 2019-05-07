@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.pdb

@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.pdb

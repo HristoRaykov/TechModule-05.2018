@@ -1,0 +1,22 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Lab\03.DataTypesandVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\03.ExactSumOfRealNumbers.pdb

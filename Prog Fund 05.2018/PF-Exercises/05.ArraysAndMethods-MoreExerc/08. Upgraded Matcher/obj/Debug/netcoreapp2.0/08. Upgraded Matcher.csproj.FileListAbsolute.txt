@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\bin\Debug\netcoreapp2.0\08. Upgraded Matcher.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\bin\Debug\netcoreapp2.0\08. Upgraded Matcher.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\bin\Debug\netcoreapp2.0\08. Upgraded Matcher.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\bin\Debug\netcoreapp2.0\08. Upgraded Matcher.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\bin\Debug\netcoreapp2.0\08. Upgraded Matcher.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\obj\Debug\netcoreapp2.0\08. Upgraded Matcher.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\obj\Debug\netcoreapp2.0\08. Upgraded Matcher.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\obj\Debug\netcoreapp2.0\08. Upgraded Matcher.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\obj\Debug\netcoreapp2.0\08. Upgraded Matcher.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\obj\Debug\netcoreapp2.0\08. Upgraded Matcher.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\08. Upgraded Matcher\obj\Debug\netcoreapp2.0\08. Upgraded Matcher.pdb

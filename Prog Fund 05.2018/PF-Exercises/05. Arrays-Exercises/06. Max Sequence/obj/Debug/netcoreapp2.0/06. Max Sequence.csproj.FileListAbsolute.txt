@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\obj\Debug\netcoreapp2.0\06. Max Sequence.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\obj\Debug\netcoreapp2.0\06. Max Sequence.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\obj\Debug\netcoreapp2.0\06. Max Sequence.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\obj\Debug\netcoreapp2.0\06. Max Sequence.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\bin\Debug\netcoreapp2.0\06. Max Sequence.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\bin\Debug\netcoreapp2.0\06. Max Sequence.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\bin\Debug\netcoreapp2.0\06. Max Sequence.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\bin\Debug\netcoreapp2.0\06. Max Sequence.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\bin\Debug\netcoreapp2.0\06. Max Sequence.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\obj\Debug\netcoreapp2.0\06. Max Sequence.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\06. Max Sequence\obj\Debug\netcoreapp2.0\06. Max Sequence.pdb

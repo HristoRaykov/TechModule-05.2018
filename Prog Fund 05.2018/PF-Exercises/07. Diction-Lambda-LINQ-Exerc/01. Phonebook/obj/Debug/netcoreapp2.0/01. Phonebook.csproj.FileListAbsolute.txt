@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.pdb

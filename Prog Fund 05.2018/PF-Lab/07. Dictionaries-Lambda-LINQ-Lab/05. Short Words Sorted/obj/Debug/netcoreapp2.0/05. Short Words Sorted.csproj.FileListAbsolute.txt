@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\05. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.pdb

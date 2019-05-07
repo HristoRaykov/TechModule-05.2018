@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.pdb

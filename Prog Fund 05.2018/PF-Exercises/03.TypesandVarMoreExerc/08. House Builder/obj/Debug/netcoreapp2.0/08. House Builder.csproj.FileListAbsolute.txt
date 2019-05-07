@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.pdb

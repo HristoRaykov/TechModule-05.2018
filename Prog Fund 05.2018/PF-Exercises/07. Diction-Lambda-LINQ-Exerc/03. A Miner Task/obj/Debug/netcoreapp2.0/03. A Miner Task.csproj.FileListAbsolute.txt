@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.pdb

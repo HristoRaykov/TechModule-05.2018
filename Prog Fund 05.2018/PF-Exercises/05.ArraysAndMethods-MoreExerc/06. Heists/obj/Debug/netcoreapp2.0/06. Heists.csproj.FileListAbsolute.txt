@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\bin\Debug\netcoreapp2.0\06. Heists.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\bin\Debug\netcoreapp2.0\06. Heists.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\bin\Debug\netcoreapp2.0\06. Heists.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\bin\Debug\netcoreapp2.0\06. Heists.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\bin\Debug\netcoreapp2.0\06. Heists.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\obj\Debug\netcoreapp2.0\06. Heists.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\obj\Debug\netcoreapp2.0\06. Heists.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\obj\Debug\netcoreapp2.0\06. Heists.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\obj\Debug\netcoreapp2.0\06. Heists.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\obj\Debug\netcoreapp2.0\06. Heists.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05.ArraysAndMethods-MoreExerc\06. Heists\obj\Debug\netcoreapp2.0\06. Heists.pdb

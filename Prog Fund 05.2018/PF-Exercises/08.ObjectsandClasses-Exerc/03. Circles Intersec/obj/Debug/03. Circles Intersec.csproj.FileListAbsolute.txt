@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\03. Circles Intersec\bin\Debug\_03.Circles_Intersec.exe.config
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\03. Circles Intersec\bin\Debug\_03.Circles_Intersec.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\03. Circles Intersec\bin\Debug\_03.Circles_Intersec.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\03. Circles Intersec\obj\Debug\03. Circles Intersec.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\03. Circles Intersec\obj\Debug\03. Circles Intersec.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\03. Circles Intersec\obj\Debug\_03.Circles_Intersec.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\03. Circles Intersec\obj\Debug\_03.Circles_Intersec.pdb

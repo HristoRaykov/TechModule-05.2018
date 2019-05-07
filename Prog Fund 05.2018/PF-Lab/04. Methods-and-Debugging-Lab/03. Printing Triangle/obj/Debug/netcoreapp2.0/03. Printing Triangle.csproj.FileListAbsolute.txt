@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.pdb

@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.pdb

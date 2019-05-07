@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\bin\Debug\netcoreapp2.0\05. BPM Counter.deps.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\bin\Debug\netcoreapp2.0\05. BPM Counter.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\bin\Debug\netcoreapp2.0\05. BPM Counter.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\bin\Debug\netcoreapp2.0\05. BPM Counter.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\bin\Debug\netcoreapp2.0\05. BPM Counter.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\obj\Debug\netcoreapp2.0\05. BPM Counter.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\obj\Debug\netcoreapp2.0\05. BPM Counter.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\obj\Debug\netcoreapp2.0\05. BPM Counter.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\obj\Debug\netcoreapp2.0\05. BPM Counter.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\obj\Debug\netcoreapp2.0\05. BPM Counter.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\05. BPM Counter\obj\Debug\netcoreapp2.0\05. BPM Counter.csprojAssemblyReference.cache

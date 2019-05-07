@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\obj\Debug\netcoreapp2.0\01.X Figure.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\obj\Debug\netcoreapp2.0\01.X Figure.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\obj\Debug\netcoreapp2.0\01.X Figure.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\obj\Debug\netcoreapp2.0\01.X Figure.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\bin\Debug\netcoreapp2.0\01.X Figure.deps.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\bin\Debug\netcoreapp2.0\01.X Figure.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\bin\Debug\netcoreapp2.0\01.X Figure.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\bin\Debug\netcoreapp2.0\01.X Figure.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\bin\Debug\netcoreapp2.0\01.X Figure.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\obj\Debug\netcoreapp2.0\01.X Figure.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\01.X Figure\obj\Debug\netcoreapp2.0\01.X Figure.pdb

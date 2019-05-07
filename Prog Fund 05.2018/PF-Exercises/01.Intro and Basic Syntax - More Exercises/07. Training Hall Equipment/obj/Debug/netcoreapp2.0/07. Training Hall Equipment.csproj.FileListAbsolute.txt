@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.deps.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.pdb

@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.pdb

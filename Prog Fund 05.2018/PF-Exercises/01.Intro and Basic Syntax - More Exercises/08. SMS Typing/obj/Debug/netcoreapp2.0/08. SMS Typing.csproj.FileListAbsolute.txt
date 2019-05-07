@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.deps.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.pdb

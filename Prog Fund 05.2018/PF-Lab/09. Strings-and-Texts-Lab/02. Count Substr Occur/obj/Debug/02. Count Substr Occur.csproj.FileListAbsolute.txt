@@ -1,0 +1,6 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\02. Count Substr Occur\bin\Debug\_02.Count_Substr_Occur.exe.config
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\02. Count Substr Occur\bin\Debug\_02.Count_Substr_Occur.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\02. Count Substr Occur\bin\Debug\_02.Count_Substr_Occur.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\02. Count Substr Occur\obj\Debug\02. Count Substr Occur.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\02. Count Substr Occur\obj\Debug\_02.Count_Substr_Occur.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\09. Strings-and-Texts-Lab\02. Count Substr Occur\obj\Debug\_02.Count_Substr_Occur.pdb

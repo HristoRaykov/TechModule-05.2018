@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.deps.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.pdb

@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.deps.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.pdb

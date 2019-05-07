@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.pdb

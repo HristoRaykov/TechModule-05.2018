@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\07. Diction-Lambda-LINQ-Exerc\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.pdb

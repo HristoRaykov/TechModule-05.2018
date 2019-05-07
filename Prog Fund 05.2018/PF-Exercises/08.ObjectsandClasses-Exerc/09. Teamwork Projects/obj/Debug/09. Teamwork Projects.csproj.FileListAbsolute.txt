@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\09. Teamwork Projects\obj\Debug\09. Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\09. Teamwork Projects\obj\Debug\09. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.exe.config
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\09. Teamwork Projects\obj\Debug\_09.Teamwork_Projects.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\09. Teamwork Projects\obj\Debug\_09.Teamwork_Projects.pdb

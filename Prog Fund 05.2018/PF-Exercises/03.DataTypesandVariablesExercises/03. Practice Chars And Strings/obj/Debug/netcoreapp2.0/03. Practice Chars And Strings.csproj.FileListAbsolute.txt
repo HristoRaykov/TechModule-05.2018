@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.pdb

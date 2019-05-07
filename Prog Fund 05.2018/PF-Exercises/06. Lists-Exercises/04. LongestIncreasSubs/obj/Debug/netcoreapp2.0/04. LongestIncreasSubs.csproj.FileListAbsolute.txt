@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\bin\Debug\netcoreapp2.0\04. LongestIncreasSubs.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\bin\Debug\netcoreapp2.0\04. LongestIncreasSubs.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\bin\Debug\netcoreapp2.0\04. LongestIncreasSubs.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\bin\Debug\netcoreapp2.0\04. LongestIncreasSubs.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\bin\Debug\netcoreapp2.0\04. LongestIncreasSubs.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\obj\Debug\netcoreapp2.0\04. LongestIncreasSubs.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\obj\Debug\netcoreapp2.0\04. LongestIncreasSubs.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\obj\Debug\netcoreapp2.0\04. LongestIncreasSubs.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\obj\Debug\netcoreapp2.0\04. LongestIncreasSubs.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\obj\Debug\netcoreapp2.0\04. LongestIncreasSubs.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\06. Lists-Exercises\04. LongestIncreasSubs\obj\Debug\netcoreapp2.0\04. LongestIncreasSubs.pdb

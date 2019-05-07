@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.pdb

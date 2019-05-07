@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04. SieveOfEratosthenes.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04. SieveOfEratosthenes.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04. SieveOfEratosthenes.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04. SieveOfEratosthenes.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04. SieveOfEratosthenes.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04. SieveOfEratosthenes.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04. SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04. SieveOfEratosthenes.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04. SieveOfEratosthenes.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04. SieveOfEratosthenes.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\04. SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04. SieveOfEratosthenes.pdb

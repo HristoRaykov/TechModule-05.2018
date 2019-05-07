@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\bin\Debug\netcoreapp2.0\11. String Concatenation.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\bin\Debug\netcoreapp2.0\11. String Concatenation.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\bin\Debug\netcoreapp2.0\11. String Concatenation.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\bin\Debug\netcoreapp2.0\11. String Concatenation.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\bin\Debug\netcoreapp2.0\11. String Concatenation.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\obj\Debug\netcoreapp2.0\11. String Concatenation.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\obj\Debug\netcoreapp2.0\11. String Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\obj\Debug\netcoreapp2.0\11. String Concatenation.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\obj\Debug\netcoreapp2.0\11. String Concatenation.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\obj\Debug\netcoreapp2.0\11. String Concatenation.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\11. String Concatenation\obj\Debug\netcoreapp2.0\11. String Concatenation.pdb

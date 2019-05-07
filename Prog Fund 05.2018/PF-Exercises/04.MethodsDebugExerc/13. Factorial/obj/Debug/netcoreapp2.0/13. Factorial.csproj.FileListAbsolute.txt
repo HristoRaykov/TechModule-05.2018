@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\04.MethodsDebugExerc\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.pdb

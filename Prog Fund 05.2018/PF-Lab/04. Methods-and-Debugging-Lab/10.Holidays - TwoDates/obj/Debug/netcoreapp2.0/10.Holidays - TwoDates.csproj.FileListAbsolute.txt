@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\bin\Debug\netcoreapp2.0\10.Holidays - TwoDates.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\bin\Debug\netcoreapp2.0\10.Holidays - TwoDates.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\bin\Debug\netcoreapp2.0\10.Holidays - TwoDates.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\bin\Debug\netcoreapp2.0\10.Holidays - TwoDates.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\bin\Debug\netcoreapp2.0\10.Holidays - TwoDates.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\obj\Debug\netcoreapp2.0\10.Holidays - TwoDates.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\obj\Debug\netcoreapp2.0\10.Holidays - TwoDates.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\obj\Debug\netcoreapp2.0\10.Holidays - TwoDates.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\obj\Debug\netcoreapp2.0\10.Holidays - TwoDates.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\obj\Debug\netcoreapp2.0\10.Holidays - TwoDates.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\10.Holidays - TwoDates\obj\Debug\netcoreapp2.0\10.Holidays - TwoDates.pdb

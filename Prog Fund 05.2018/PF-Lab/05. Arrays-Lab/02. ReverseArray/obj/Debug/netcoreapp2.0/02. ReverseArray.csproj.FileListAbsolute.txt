@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\bin\Debug\netcoreapp2.0\02. ReverseArray.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\bin\Debug\netcoreapp2.0\02. ReverseArray.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\bin\Debug\netcoreapp2.0\02. ReverseArray.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\bin\Debug\netcoreapp2.0\02. ReverseArray.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\bin\Debug\netcoreapp2.0\02. ReverseArray.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\obj\Debug\netcoreapp2.0\02. ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\obj\Debug\netcoreapp2.0\02. ReverseArray.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\obj\Debug\netcoreapp2.0\02. ReverseArray.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\obj\Debug\netcoreapp2.0\02. ReverseArray.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\obj\Debug\netcoreapp2.0\02. ReverseArray.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\05. Arrays-Lab\02. ReverseArray\obj\Debug\netcoreapp2.0\02. ReverseArray.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\07. AndreyandBilliard\bin\Debug\_07.AndreyandBilliard.exe.config
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\07. AndreyandBilliard\bin\Debug\_07.AndreyandBilliard.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\07. AndreyandBilliard\bin\Debug\_07.AndreyandBilliard.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\07. AndreyandBilliard\obj\Debug\07. AndreyandBilliard.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\07. AndreyandBilliard\obj\Debug\07. AndreyandBilliard.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\07. AndreyandBilliard\obj\Debug\_07.AndreyandBilliard.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\07. AndreyandBilliard\obj\Debug\_07.AndreyandBilliard.pdb

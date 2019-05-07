@@ -1,0 +1,10 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\06. Lists-Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.pdb

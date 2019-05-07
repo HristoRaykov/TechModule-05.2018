@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.TypesandVarMoreExerc\03.TypesandVarMoreExerc\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.pdb

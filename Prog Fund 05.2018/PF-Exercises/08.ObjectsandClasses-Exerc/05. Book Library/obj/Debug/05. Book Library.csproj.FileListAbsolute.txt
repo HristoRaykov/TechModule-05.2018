@@ -1,0 +1,7 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\05. Book Library\bin\Debug\_05.Book_Library.exe.config
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\05. Book Library\bin\Debug\_05.Book_Library.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\05. Book Library\bin\Debug\_05.Book_Library.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\05. Book Library\obj\Debug\05. Book Library.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\05. Book Library\obj\Debug\05. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\05. Book Library\obj\Debug\_05.Book_Library.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\08.ObjectsandClasses-Exerc\05. Book Library\obj\Debug\_05.Book_Library.pdb

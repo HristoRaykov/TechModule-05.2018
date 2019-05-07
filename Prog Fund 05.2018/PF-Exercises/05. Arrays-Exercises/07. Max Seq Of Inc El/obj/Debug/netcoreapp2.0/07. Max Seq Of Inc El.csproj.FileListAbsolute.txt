@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\bin\Debug\netcoreapp2.0\07. Max Seq Of Inc El.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\bin\Debug\netcoreapp2.0\07. Max Seq Of Inc El.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\bin\Debug\netcoreapp2.0\07. Max Seq Of Inc El.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\bin\Debug\netcoreapp2.0\07. Max Seq Of Inc El.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\bin\Debug\netcoreapp2.0\07. Max Seq Of Inc El.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\obj\Debug\netcoreapp2.0\07. Max Seq Of Inc El.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\obj\Debug\netcoreapp2.0\07. Max Seq Of Inc El.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\obj\Debug\netcoreapp2.0\07. Max Seq Of Inc El.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\obj\Debug\netcoreapp2.0\07. Max Seq Of Inc El.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\obj\Debug\netcoreapp2.0\07. Max Seq Of Inc El.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Exercises\05. Arrays-Exercises\07. Max Seq Of Inc El\obj\Debug\netcoreapp2.0\07. Max Seq Of Inc El.pdb

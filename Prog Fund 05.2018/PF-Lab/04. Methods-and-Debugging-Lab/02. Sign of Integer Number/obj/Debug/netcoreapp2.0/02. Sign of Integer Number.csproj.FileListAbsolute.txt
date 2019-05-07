@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.pdb

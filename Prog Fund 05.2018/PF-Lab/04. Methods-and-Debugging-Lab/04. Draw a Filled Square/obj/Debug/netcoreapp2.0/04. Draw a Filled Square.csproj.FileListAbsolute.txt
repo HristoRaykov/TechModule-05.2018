@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\obj\Debug\netcoreapp2.0\04. Draw a Filled Square.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\obj\Debug\netcoreapp2.0\04. Draw a Filled Square.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\obj\Debug\netcoreapp2.0\04. Draw a Filled Square.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\obj\Debug\netcoreapp2.0\04. Draw a Filled Square.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\bin\Debug\netcoreapp2.0\04. Draw a Filled Square.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\bin\Debug\netcoreapp2.0\04. Draw a Filled Square.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\bin\Debug\netcoreapp2.0\04. Draw a Filled Square.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\bin\Debug\netcoreapp2.0\04. Draw a Filled Square.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\bin\Debug\netcoreapp2.0\04. Draw a Filled Square.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\obj\Debug\netcoreapp2.0\04. Draw a Filled Square.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\04. Methods-and-Debugging-Lab\04. Draw a Filled Square\obj\Debug\netcoreapp2.0\04. Draw a Filled Square.pdb

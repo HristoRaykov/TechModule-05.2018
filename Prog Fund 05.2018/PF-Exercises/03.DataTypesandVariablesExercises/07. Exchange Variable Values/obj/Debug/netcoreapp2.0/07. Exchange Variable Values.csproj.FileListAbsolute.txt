@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.pdb

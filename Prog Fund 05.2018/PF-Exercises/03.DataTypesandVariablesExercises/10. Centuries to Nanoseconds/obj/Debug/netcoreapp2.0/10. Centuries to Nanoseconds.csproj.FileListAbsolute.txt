@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\03.DataTypesandVariablesExercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb

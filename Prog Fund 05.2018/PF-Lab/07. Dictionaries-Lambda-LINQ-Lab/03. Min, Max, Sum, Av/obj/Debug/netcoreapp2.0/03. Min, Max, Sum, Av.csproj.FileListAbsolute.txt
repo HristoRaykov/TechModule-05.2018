@@ -1,0 +1,10 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules&Courses\Prog Fund 05.2018\PF-Lab\07. Dictionaries-Lambda-LINQ-Lab\03. Min, Max, Sum, Av\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Av.pdb

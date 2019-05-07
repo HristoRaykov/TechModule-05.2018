@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules and Courses\Programming Fundamentals 05.2018\Lab\03.DataTypesandVariablesLab\09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\09.RefactorSpecialNumbers.pdb

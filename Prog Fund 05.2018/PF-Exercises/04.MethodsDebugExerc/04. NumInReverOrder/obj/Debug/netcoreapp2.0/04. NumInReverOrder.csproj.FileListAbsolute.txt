@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\bin\Debug\netcoreapp2.0\04. NumInReverOrder.deps.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\bin\Debug\netcoreapp2.0\04. NumInReverOrder.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\bin\Debug\netcoreapp2.0\04. NumInReverOrder.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\bin\Debug\netcoreapp2.0\04. NumInReverOrder.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\bin\Debug\netcoreapp2.0\04. NumInReverOrder.pdb
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\obj\Debug\netcoreapp2.0\04. NumInReverOrder.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\obj\Debug\netcoreapp2.0\04. NumInReverOrder.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\obj\Debug\netcoreapp2.0\04. NumInReverOrder.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\obj\Debug\netcoreapp2.0\04. NumInReverOrder.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\obj\Debug\netcoreapp2.0\04. NumInReverOrder.dll
+C:\Users\hrist\Google Drive\SoftUni\Courses\Prog Fund 05.2018\Exercises\05.MethodsDebugExerc\04. NumInReverOrder\obj\Debug\netcoreapp2.0\04. NumInReverOrder.pdb

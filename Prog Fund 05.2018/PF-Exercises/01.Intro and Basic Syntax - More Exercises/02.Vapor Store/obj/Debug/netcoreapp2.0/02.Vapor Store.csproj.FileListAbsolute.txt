@@ -1,0 +1,11 @@
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\bin\Debug\netcoreapp2.0\02.Vapor Store.deps.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\bin\Debug\netcoreapp2.0\02.Vapor Store.runtimeconfig.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\bin\Debug\netcoreapp2.0\02.Vapor Store.runtimeconfig.dev.json
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\bin\Debug\netcoreapp2.0\02.Vapor Store.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\bin\Debug\netcoreapp2.0\02.Vapor Store.pdb
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\obj\Debug\netcoreapp2.0\02.Vapor Store.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\obj\Debug\netcoreapp2.0\02.Vapor Store.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\obj\Debug\netcoreapp2.0\02.Vapor Store.AssemblyInfoInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\obj\Debug\netcoreapp2.0\02.Vapor Store.AssemblyInfo.cs
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\obj\Debug\netcoreapp2.0\02.Vapor Store.dll
+C:\Users\hrist\Google Drive\SoftUni\C#\Programming Fundamentals 05.2018\Exercises\More Exercises\MoreExercises\02.Vapor Store\obj\Debug\netcoreapp2.0\02.Vapor Store.pdb
